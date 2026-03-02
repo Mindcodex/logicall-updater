@@ -1,11 +1,11 @@
 {
-    "version": "0.2.0",
-    "pub_date": "2026-03-02T15:05:53-03:00",
+    "version": "0.3.0",
+    "pub_date": "2026-03-02T17:07:09-03:00",
     "notes": "MVP Test",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSmtmQjBGOGJzbGh3UGlLQnFvZ0wvTkhXczFiYjJWYjN2d052SGNSZlBuWWxvNTU0dHQ5eDFoWFhZNithRE9QUEpQL2pWSXI0OUp5ZGNFWXdhcGNHckpnSGg4QWRaWXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNDcxMzY3CWZpbGU6bG9naWNhbGxfMC4yLjBfeDY0LXNldHVwLmV4ZQpTakNDYUNWV21UOXl3N3JGVXlPU29pL3JSZ1IzS3lDRHJTQU1aQW5zN0pRMVJycWZDd2RIak9xa3FYYlZROFBJTXFMTUZkZStFYzNSWjhjSFF4SlVBZz09Cg==",
-            "url": "https://github.com/Mindcodex/logicall/releases/download/v0.2.0/logicall_0.2.0_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSmtmQjBGOGJzbHJTanY0ZHQxT2x1Z3d2OGJ3S2Y1bThWTW4yN0oxOE8xZTlqSHc5WEhhTHp2Z0JIaHhVbmFoOXRTV3hiTkZiOFR2TTI3SGNIcXhtUWYweVBSWk1uSlE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNDgxOTcyCWZpbGU6bG9naWNhbGxfMC4zLjBfeDY0LXNldHVwLmV4ZQpPVFVlaTY5ODhGL01GenEyejlFRjVqdGhZR1pxQ0NyWkJqUjJWT2Nia1R4dUN0NDhSQXN6NzFQV3NDL2pnRzJranNXd1dLTUloU2JQVlVqK1FERmNEZz09Cg==",
+            "url": "https://github.com/Mindcodex/logicall-updater/releases/download/v0.3.0/logicall_0.3.0_x64-setup.exe"
         }
     }
 }
