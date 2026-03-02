@@ -4,7 +4,7 @@
     "notes": "MVP Test",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSmtmQjBGOGJzbGdBSVNydTRldU5KeHpGS3hndlhwaFZPaHB1WlBEenA2OVV5bHhiZnNsSFJRRnloTjB0OFJTa1pHZEd6SndWcWtWQWpqeWhkL0dEZlp5aW1VZjVUOHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNDcwNDYyCWZpbGU6bG9naWNhbGxfMC4yLjBfeDY0LXNldHVwLmV4ZQpVcnhqOGoxNld2QzI5VmJma3VSZVkvMmNDNFErYndqQ3B6eS80RTFsRVdaVDJTMlNBQno2dWhzbDgwUE9Wei9nZVYzRkp3VjUzNld6dGpnUEtRT09CZz09Cg==",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSmtmQjBGOGJzbGh3UGlLQnFvZ0wvTkhXczFiYjJWYjN2d052SGNSZlBuWWxvNTU0dHQ5eDFoWFhZNithRE9QUEpQL2pWSXI0OUp5ZGNFWXdhcGNHckpnSGg4QWRaWXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNDcxMzY3CWZpbGU6bG9naWNhbGxfMC4yLjBfeDY0LXNldHVwLmV4ZQpTakNDYUNWV21UOXl3N3JGVXlPU29pL3JSZ1IzS3lDRHJTQU1aQW5zN0pRMVJycWZDd2RIak9xa3FYYlZROFBJTXFMTUZkZStFYzNSWjhjSFF4SlVBZz09Cg==",
             "url": "https://github.com/Mindcodex/logicall/releases/download/v0.2.0/logicall_0.2.0_x64-setup.exe"
         }
     }
